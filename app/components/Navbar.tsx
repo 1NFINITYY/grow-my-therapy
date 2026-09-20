@@ -28,7 +28,7 @@ export default function Navbar() {
   }, [open]);
 
   const navLinks = [
-    { label: "About", href: "/#about" },
+    { label: "About", href: "/#about-full" },
     { label: "Services", href: "/#services" },
     { label: "Our Office", href: "/#office" },
     { label: "FAQ", href: "/#faq" },
