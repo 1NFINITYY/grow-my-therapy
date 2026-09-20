@@ -12,6 +12,25 @@ The project focuses on clean UI design, smooth animations, and a premium user ex
 
 ---
 
+## 📸 Screenshots
+
+### Hero
+![Hero Section](public/screenshots/hero.png)
+
+### Mission & Philosophy
+![Mission Section](public/screenshots/mid_upper.png)
+
+### Who We Help
+![Who We Help](public/screenshots/mid_lower.png)
+
+### Audience Cards
+![Audience Cards](public/screenshots/bottom.png)
+
+### Contact Page
+![Contact Page](public/screenshots/contact.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Version |
